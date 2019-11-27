@@ -2,45 +2,34 @@
 <html lang="en">
 <meta charset="utf-8">
 <title>Emergency Husky!</title>
-<link rel="stylesheet" href="husky.css">
+<link rel="stylesheet" href="huskies.css">
 
-<!--<script>-->
-<!--  window._gaq = [['_setAccount', 'UA-33711406-1'], ['_trackPageview']];-->
-<!--  (function(d, t) {-->
-<!--    var g = d.createElement(t),-->
-<!--        s = d.getElementsByTagName(t)[0];-->
-<!--    g.src = '//www.google-analytics.com/ga.js';-->
-<!--    s.parentNode.insertBefore(g, s);-->
-<!--  }(document, 'script'));-->
-<!--</script>-->
-
-<div id="putHuskyHere" class="centered">
+<div id="huskyHome" class="centered">
     <noscript>There would normally be a husky here, but you disabled JavaScript and killed them :(.</noscript>
 </div>
 
 <p class="license centered">
     All photos are either under a <a href="http://creativecommons.org/licenses/">Creative Commons</a> license or were marked as shareable by their creators. Click on a photo to visit its original source.<br>
-
-    Comments? You can send them here <a href="mailto:contact@emergencyhusky.com"></a>. Complaints? Maybe you need <a href="./">another husky</a>.
+    Comments? You can send them <a href="mailto:contact@emergencyhusky.com">here</a>. Complaints? Maybe you need <a href="./">another husky</a>.<br>
+    Visit the original: <a href="emergencykitten.com">Emergency Kitten!</a>
 </p>
-
-<a href="https://github.com/rgrove/emergencykitten/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
 
 <script src="huskies.js"></script>
 <script>
 (function (win, doc) {
-    var kitten = kittens[Math.floor(Math.random() * kittens.length)];
-    var image  = doc.createElement('img');
-    var link   = doc.createElement('a');
+    const husky = huskies[Math.floor(Math.random() * huskies.length)];
+    const image = doc.createElement('img');
+    const link = doc.createElement('a');
 
-    link.className = 'kitten';
-    link.href      = kitten.url;
+    link.className = 'husky';
+    link.href = husky.url;
 
-    image.alt       = kitten.imageAlt;
-    image.className = 'kitten-image';
-    image.src       = kitten.imageUrl;
+    image.alt = husky.imageAlt;
+    image.title = husky.title;
+    image.className = 'husky-image';
+    image.src = husky.imageUrl;
 
     link.appendChild(image);
-    doc.getElementById('putakitteninme').appendChild(link);
+    doc.getElementById('huskyHome').appendChild(link);
 }(this, document));
 </script>
