@@ -1,5 +1,10 @@
 const huskies = [
-
+    {
+        "url": "https://www.flickr.com/photos/43089317@N04/8024806200",
+        "title": "white husky by sdkscorp, on Flickr",
+        "imageUrl": "live.staticflickr.com/8181/8024806200_6d710e9772_h.jpg",
+        "imageAlt": "white husky"
+    },
 
 
 
