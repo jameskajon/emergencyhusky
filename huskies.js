@@ -27,5 +27,5 @@ const huskies = [
         "title": "Crazy Kitten? // Nikkor 50mm 1.4 by Merlijn Hoek, on Flickr",
         "imageUrl": "http://farm4.staticflickr.com/3033/2841785343_e166fb4396_b.jpg",
         "imageAlt": "Crazy Kitten? // Nikkor 50mm 1.4"
-    },
+    }
 ];
