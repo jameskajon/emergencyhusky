@@ -17,7 +17,10 @@ a:hover { text-decoration: underline; }
 .centered { text-align: center; }
 
 .husky-image {
-    min-height: 600px;
+    max-width: 100%;
+    max-height: calc(100% - 74px);
+    width: auto;
+    height:auto;
 }
 
 .license {
