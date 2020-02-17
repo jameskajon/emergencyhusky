@@ -18,7 +18,7 @@ a:hover { text-decoration: underline; }
 
 .husky-image {
     max-width: 100%;
-    max-height: calc(100% - 74px);
+    max-height: calc(100vh - 90px);
     width: auto;
     height:auto;
 }
