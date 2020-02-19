@@ -5,6 +5,12 @@ const huskies = [
         "imageUrl": "//live.staticflickr.com/8181/8024806200_6d710e9772_h.jpg",
         "imageAlt": "white husky",
     },
+    {
+        "url": "https://www.flickr.com/photos/southeasternstar/8235034660/in/photolist-dxGGUd-dxBfsH-aPfm12-aHc2F2-v1Xk2w-8Wu6vr-oKrrk6-dxBfFD-eUSJ2G-rWqwUG-859gN-RvZ4zY-8vyaDa-9xTQ59-aJqoXM-26E6DBB-eeatkD-6U9oc7-2Dbwcs-7F1ePd-rozFdH-4uypoL-3tv9r-aPfbq8-4zBvik-w1NUC6-rh1CbL-FLsRZj-se1MA8-fydDuD-zrTxq-reHu17-A29TRT-kuqzN8-yCVyX3-78CzuT-e6rvmc-74jELN-5ofY2b-esPiJL-e5Ho7V-a4cbx-aXxkt-esPh6E-LkdKb-ChZdB8-4q44kn-dhFUN6-6wgTSc-bYWUpA",
+        "title": "Huskies by SouthEastern Star ★, on Flickr",
+        "imageUrl": "//live.staticflickr.com/8347/8235034660_60fac9aa4b.jpg",
+        "imageAlt": "Huskies",
+    },
 
     // {
     //     "url": "http://www.flickr.com/photos/seanmolin/7028040701/",
