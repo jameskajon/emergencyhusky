@@ -17,24 +17,23 @@ const huskies = [
         "imageUrl": "//live.staticflickr.com/593/22329181961_6e639ef5f8.jpg",
         "imageAlt": "Huskies",
     },
+    {
+        "url": "https://www.flickr.com/photos/julianlim/336396020/in/photolist-vJ7Po-hr1quX-ChZdB8-e6rvmc-esPiJL-RBJCdB-39xw8-6Kk8qx-3cc3w2-aXxkt-db9kyL-9U9SiH-48a3Cq-7A67v8-35bePd-ArikDn-e5Erj6-d5Zvzo-e5HA2K-98QfXL-aLFnBT-4S4fbY-6iw1RC-e5PdsW-habAu-r4hDQm-ab7jwC-caJAZq-4Xw5G-9cN43S-habEZ-55ATeL-e5GmJP-SivHjy-82ipwG-4fk4Hj-5oURtB-b6WoFx-8jG7Rv-4fk2eL-8T3umw-bCqHrB-7jy6AZ-bpvMe9-aLF5bB-7JjvtP-pKDRet-6ER64n-6mbRgJ-nL2jCF",
+        "title": "husky by julianlimjl, on Flickr",
+        "imageUrl": "//live.staticflickr.com/124/336396020_6bfee37160.jpg",
+        "imageAlt": "husky",
+    },
+    {
+        "url": "https://www.flickr.com/photos/janneaaltonen/6829657794/in/photolist-bpvMjA-d5Yog3-5pgsxx-82ZCUY-4MfXou-4EASko-icSxW-nqm7NR-4pkEr2-4EALGJ-5JPc6d-a2sCL7-e5JcFo-4foRsU-53c7aF-cSws1A-TcKDoH-LpPynB-9pEV3-qXjKzV-aHc34F-pjhxV-e6x9i1-tqgyRp-4Kix8a-pXNTJK-qpdBA-4vsbrk-79wqsd-e6x9Fj-9wMj1L-esPk5G-8wF3DB-JSXZTa-p2qx-DG8MN-55V5EG-9fWQRC-6kkA96-58CX9u-as2TGX-7rJoBd-dSzaVK-8MKvt-4ovwXH-9ecpBP-7zqWeg-e5Cyfz-dSzaYi-8469Ee",
+        "title": "Saturn by Janne Aaltonen, on Flickr",
+        "imageUrl": "//live.staticflickr.com/7046/6829657794_1320f6f711.jpg",
+        "imageAlt": "Saturn",
+    },
+    {
+        "url": "https://www.flickr.com/photos/hyshqa/5419396155/in/photolist-9fTPEK-dPK1z4-4ZmhoS-dJRC8Q-8Yjmcj-5o5PA6-aoB7YX-9wMjcq-4ffFq2-7FjkwE-d5YgpY-34Vpo2-hAMTo-4EAPvL-34VpbT-SBTmuf-seKH3Y-NxuK-7sPfem-4fF62F-6FiWFC-5oUR5V-4pNF8z-e7FA4q-2a6sM-85TKuK-4xakpt-4yDXa8-8Ygj9r-4Mwx4f-55V46m-8YjkX9-5o8pDx-6y4ooz-4JQ9HR-6iACAk-55QP2B-496A1U-55V32y-eb8tSs-5Fq6Lf-dNbrNF-e5MGcj-4EwsLT-e5L5Td-4foS6f-e6rvJX-e5N1Xf-tq6pXd-7FfuKX",
+        "title": "Aura & Talon by Hy'Shqa, on Flickr",
+        "imageUrl": "//live.staticflickr.com/5095/5419396155_4284bd9ca6.jpg",
+        "imageAlt": "Aura & Talon",
+    },
 
-
-    // {
-    //     "url": "http://www.flickr.com/photos/seanmolin/7028040701/",
-    //     "title": "Little Low-Light Monsters (D800 @ ISO 25,600) by Sean Molin Photography, on Flickr",
-    //     "imageUrl": "http://farm8.staticflickr.com/7239/7028040701_6de179d6fb_b.jpg",
-    //     "imageAlt": "Little Low-Light Monsters (D800 @ ISO 25,600)"
-    // },
-    // {
-    //     "url": "http://www.flickr.com/photos/merlijnhoek/3184818586/",
-    //     "title": "Muffin // Our new kitten by Merlijn Hoek, on Flickr",
-    //     "imageUrl": "http://farm4.staticflickr.com/3331/3184818586_4ff359c537_b.jpg",
-    //     "imageAlt": "Muffin // Our new kitten"
-    // },
-    // {
-    //     "url": "http://www.flickr.com/photos/merlijnhoek/2841785343/",
-    //     "title": "Crazy Kitten? // Nikkor 50mm 1.4 by Merlijn Hoek, on Flickr",
-    //     "imageUrl": "http://farm4.staticflickr.com/3033/2841785343_e166fb4396_b.jpg",
-    //     "imageAlt": "Crazy Kitten? // Nikkor 50mm 1.4"
-    // }
 ];
