@@ -45,7 +45,7 @@ const huskies = [
         "url": "https://www.flickr.com/photos/tambako/4525212851/in/photolist-7TSU8e-7QNa1L-iPxu2e-7QvFkP-qZ4KbC-5zmrzs-2aw4T72-8omusR-qgjPgx-qbSKBo-didy3-ydZmnB-81Hf3j-9jmZzk-6nYWsf-aDJta7-9DLMSA-aDJsjC-xWsUtH-25dA7x3-7Mo2MX-fuYpPh-f2J5g8-ek5u9j-asPyJ5-ayc2N1-bp47Q8-bu3jA4-bp47Qz-fwXYeU-5zhauc-dDjija-4EtT3G-4JuwXn-7JbqGC-bp47QM-32z4Zf-qVCerE-9n7TJK-dc4tGt-amJ7ck-84JmtL-ayc2Qj-qDhdfx-z3938-S662f-5jwzXQ-sGQUJ-5jwzKS-i8rM3",
         "title": "Cute, funny and yawning by Tambako the Jaguar, on Flickr",
         "imageUrl": "//live.staticflickr.com/4054/4525212851_3b6912b15b.jpg",
-        "imageAlt": "Cute, funny and yawning ,
+        "imageAlt": "Cute, funny and yawning" ,
     },
     {
         "url": "https://www.flickr.com/photos/col_and_tasha/15925980897/in/photolist-7TSU8e-7QNa1L-iPxu2e-7QvFkP-qZ4KbC-5zmrzs-2aw4T72-8omusR-qgjPgx-qbSKBo-didy3-ydZmnB-81Hf3j-9jmZzk-6nYWsf-aDJta7-9DLMSA-aDJsjC-xWsUtH-25dA7x3-7Mo2MX-fuYpPh-f2J5g8-ek5u9j-asPyJ5-ayc2N1-bp47Q8-bu3jA4-bp47Qz-fwXYeU-5zhauc-dDjija-4EtT3G-4JuwXn-7JbqGC-bp47QM-32z4Zf-qVCerE-9n7TJK-dc4tGt-amJ7ck-84JmtL-ayc2Qj-qDhdfx-z3938-S662f-5jwzXQ-sGQUJ-5jwzKS-i8rM3/",
