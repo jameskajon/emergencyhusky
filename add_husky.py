@@ -26,15 +26,16 @@ if __name__ == "__main__":
 
     r = requests.get(url)
     soup = BeautifulSoup(r.content, 'html.parser')
-    # photos = soup.find("span", {class: "facade-of-protection-neue"})
-    photos = soup.select_one('div.view.photo-well-media-scrappy-view.requiredToShowOnServer img.main-photo')
+    # photo_soup = soup.find("span", {class: "facade-of-protection-neue"})
+    # TODO: get high res version from the zoom div
+    photo_soup = soup.select_one('div.view.photo-well-media-scrappy-view.requiredToShowOnServer img.main-photo')
 
-    print(photos)
-    if photos:
-        print(photos.get('alt'))
-        print(photos.get('src'))
-        text = photos.get('alt')
-        link = photos.get('src')
+    print(photo_soup)
+    if photo_soup:
+        print(photo_soup.get('alt'))
+        print(photo_soup.get('src'))
+        text = photo_soup.get('alt')
+        link = photo_soup.get('src')
 
         image = {}
         image["url"] = url
